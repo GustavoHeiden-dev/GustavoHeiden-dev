@@ -52,8 +52,8 @@ Estou focado em:
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoHeiden-dev&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?GustavoHeiden-dev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
